@@ -7,7 +7,7 @@ https://www.snaptubeapp.com/faq-pt/about/snaptube-terms
 I. Sua Relação Conosco e Aceitação dos Termos
 Bem-vindo ao Chatbot (a “Plataforma”), que é fornecido pela (a “Empresa”, “nós” ou “nos”).
 
-Você está lendo os termos de serviço (os “Termos”), que regem a relação e servem como um acordo entre você e nós e estabelecem os termos e condições pelos quais você pode acessar e usar a Plataforma e nossos websites, serviços, aplicativos, produtos e conteúdo relacionados (coletivamente, os “Serviços”). Seu acesso a determinados Serviços ou características dos Serviços pode estar sujeito a restrições de idade e não estar disponível para todos os usuários dos Serviços. Para fins destes Termos, “você” e “seu” referem-se a você, como usuário dos Serviços.
+Você está lendo os termos de serviço (os “Termos”), que regem a relação e servem como um acordo entre você e nós e estabelecem os termos e condições pelos quais você pode acessar e usar a Plataforma e nossos websites, serviços, produtos e conteúdo relacionados (coletivamente, os “Serviços”). Seu acesso a determinados Serviços ou características dos Serviços pode estar sujeito a restrições de idade e não estar disponível para todos os usuários dos Serviços. Para fins destes Termos, “você” e “seu” referem-se a você, como usuário dos Serviços.
 
 Sem antes aceitar os Termos, você não tem direito nem autorização para usar qualquer parte dos Serviços que requeira que você seja um Usuário Cadastrado. Ao acessar ou usar nossos Serviços, você confirma que pode formar um contrato vinculativo conosco, que aceita estes Termos e que concorda com cumpri-los. Você entende e concorda que, a partir desse ponto, consideramos seu acesso ou uso dos Serviços como aceitação dos Termos. Seu acesso e o uso de nossos Serviços também estão sujeitos à nossa Política de Privacidade, anexada aqui para referência. Ao acessar os Serviços, você concorda e afirma para nós:
 i) que você tem, no mínimo, 12 anos de idade, ou a maioridade legal no seu país de nacionalidade ou estado de residência, a que for maior;
@@ -34,7 +34,7 @@ vi) utilizar os Serviços, sem nosso expresso consentimento por escrito, para qu
 vii) interferir ou tentar interferir com o bom funcionamento dos Serviços, interromper nosso website ou quaisquer redes conectadas aos Serviços, ou contornar quaisquer medidas que possamos utilizar para impedir ou restringir o acesso aos Serviços;
 viii) incorporar os Serviços ou qualquer parte deles em qualquer outro programa ou produto. Nesse caso, reservamo-nos o direito de recusar a prestação de quaisquer Serviços, fechar contas ou limitar o acesso aos Serviços, a nosso exclusivo critério;
 ix) utilizar scripts automatizados para coletar informações ou interagir de outra forma com os Serviços;
-x) fazer-se passar por qualquer pessoa ou entidade, ou falsamendddte declarar ou deturpar sua afiliação com qualquer pessoa ou entidade, incluindo dar a impressão de que qualquer conteúdo que você suba, poste, transmita, distribua ou disponibilize de qualquer outra forma provém dos Serviços;
+x)  fazer-se passar por qualquer pessoa ou entidade, ou falsamente declarar ou deturpar sua afiliação com qualquer pessoa ou entidade, incluindo dar a impressão de que qualquer conteúdo que você suba, poste, transmita, distribua ou disponibilize de qualquer outra forma provém dos Serviços;
 xi) intimidar ou assediar outros, ou promover material sexualmente explícito, violência ou discriminação com base em raça, sexo, religião, nacionalidade, deficiência, orientação sexual ou idade;
 xii) usar ou tentar usar a conta, serviço ou sistema de outra pessoa sem a nossa autorização, ou criar uma identidade falsa nos Serviços;
 xiii) utilizar os Serviços de forma que possa criar um conflito de interesses ou prejudicar os objetivos dos Serviços, tais como intercambiar avaliações com outros usuários ou escrever ou solicitar falsas avaliações;
@@ -79,7 +79,10 @@ Como condição e requisito para ter acesso e usar os Serviços, você é obriga
 Como nós fornecemos apenas uma ferramenta, uma plataforma ou um lugar para nossos usuários gerarem, exibirem e compartilharem seu conteúdo (Conteúdo Gerado pelos Usuários) e/ou se comunicarem entre eles, são os próprios usuários (inclusive você) que compõem esta comunidade. Cada usuário será responsável por suas próprias ações, comportamentos e condutas ao receber e participar dos Serviços. Nós não monitoramos ativamente e não somos responsáveis por qualquer atividade ou conteúdo que seja feito ou fornecido pelos usuários; entretanto, esperamos que os usuários conduzam suas ações e comportamentos de forma amigável e legítima.
 
 1. Encorajamos você a:
-i) utilizar os Serviços com seus amigos; contar a eles sobre o Site se eles ainda não os conhecem;
+i) utilizar os Serviços com seus amigos; contar a eles sobre o Site e o Aplicativo se eles ainda não os conhecem;
+ii) comunicar-se de forma amigável com os demais usuários dos Serviços;
+iii) criar vínculos com outros usuários e se divertir mais;
+iv) fazer comentários e feedbacks mais positivos.
 
 2. Consequências do mau uso dos serviços
 
