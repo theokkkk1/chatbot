@@ -22,7 +22,7 @@ Devido ao rápido desenvolvimento de tecnologias e leis e políticas, bem como �
 
 III. DIREITOS DE UTILIZAÇÃO E LICENÇAS
 1. Direitos de Acesso aos Serviços
-A. Os Serviços fornecem uma plataforma de Internet que oferece software abrangente e serviços de rede, online e/ou móvel, áudio e/ou vídeo, através da App, Software e/ou Site e outros serviços de Internet relacionados. Os Serviços podem permitir que você assista e faça download de vídeos, poste comentários e use outras características dos Serviços, incluindo, sem limitação, alguns serviços de terceiros.
+A. Os Serviços fornecem uma plataforma de Internet que oferece software abrangente e serviços de rede, online e/ou móvel, áudio e/ou vídeo, através da App, Software e/ou Site e outros serviços de Internet relacionados. Os Serviços podem permitir que você assista e faça download de vídeos (do Youtube) e use outras características dos Serviços, incluindo, sem limitação, alguns serviços de terceiros.
 
 B. Sujeito ao seu cumprimento dos Termos, bem como de quaisquer leis e regulamentos aplicáveis, a Empresa concede a você uma licença condicional, limitada, revogável, não exclusiva, intransferível e não sublicenciável para acessar e utilizar os Serviços, exclusivamente para seu uso pessoal e não comercial. Você concorda com abster-se de (e nem tentar):
 i) acessar ou usar os Serviços se você não for plenamente capaz e legalmente competente para concordar com estes Termos ou não estiver autorizado a usar os Serviços por seus pais ou tutor legal;
