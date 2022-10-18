@@ -17,8 +17,6 @@ iv) quando necessário, que seu tutor legal analisou e consentiu com estes Termo
 
 Seus direitos fundamentais como Usuário Cadastrado aos Serviços estão definidos principalmente nos Termos, portanto, leia atentamente todos os termos e condições. Os Termos incluem uma cláusula de resolução de controvérsias por arbitragem de caráter individual. O local de tal arbitragem não poderá estar no país onde você reside.
 
-Observe que nossos serviços não são disponibilizados na União Europeia ou na Suíça, nem para seus residentes.
-
 II. Alterações dos Termos
 Devido ao rápido desenvolvimento de tecnologias e leis e políticas, bem como às condições voláteis do mercado, a Empresa reserva-se o direito, a seu exclusivo critério, de modificar ou revisar os Termos a cada certo tempo, a qualquer momento e, na medida do permitido pela lei aplicável, você concorda em ficar vinculado a tais modificações ou revisões. Qualquer versão modificada ou revisada entrará em vigor no momento em que for publicada pela primeira vez em nossa Plataforma (ou em qualquer outro momento designado nos termos de tal versão, caso aplicável). Faremos esforços comercialmente razoáveis para, dentro do possível, notificar todos os usuários de quaisquer alterações materiais a estes Termos, como por exemplo, através de um aviso em nossa Plataforma. No entanto, você deve consultar os Termos regularmente para verificar tais mudanças. Também colocaremos a data da “Última Atualização” no topo dos Termos, que refletirá a data de vigência de tais Termos. O uso continuado dos Serviços a partir daquele momento significará sua aceitação e consentimento de tais modificações ou revisões. Se você se opuser a qualquer modificação ou revisão, seu único recurso será a cessação do uso de todos os Serviços.
 
