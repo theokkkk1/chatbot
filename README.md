@@ -79,10 +79,7 @@ Como condição e requisito para ter acesso e usar os Serviços, você é obriga
 Como nós fornecemos apenas uma ferramenta, uma plataforma ou um lugar para nossos usuários gerarem, exibirem e compartilharem seu conteúdo (Conteúdo Gerado pelos Usuários) e/ou se comunicarem entre eles, são os próprios usuários (inclusive você) que compõem esta comunidade. Cada usuário será responsável por suas próprias ações, comportamentos e condutas ao receber e participar dos Serviços. Nós não monitoramos ativamente e não somos responsáveis por qualquer atividade ou conteúdo que seja feito ou fornecido pelos usuários; entretanto, esperamos que os usuários conduzam suas ações e comportamentos de forma amigável e legítima.
 
 1. Encorajamos você a:
-i) utilizar os Serviços com seus amigos; contar a eles sobre o Site e o Aplicativo se eles ainda não os conhecem;
-ii) comunicar-se de forma amigável com os demais usuários dos Serviços;
-iii) criar vínculos com outros usuários e se divertir mais;
-iv) fazer comentários e feedbacks mais positivos.
+i) utilizar os Serviços com seus amigos; contar a eles sobre o Site se eles ainda não os conhecem;
 
 2. Consequências do mau uso dos serviços
 
