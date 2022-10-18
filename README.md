@@ -194,4 +194,4 @@ Uso Internacional e Controle de Exportações. Os Termos podem aparecer em difer
 
 
 
-Obs: Tenho certeza que você não leu tudo Prof. Tayse ;_;
+Obs: Tenho certeza que você não leu tudo Prof. Tayse 😭
