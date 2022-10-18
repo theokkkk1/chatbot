@@ -49,9 +49,9 @@ A. O Aplicativo consiste em programas de computador e conteúdos integrados ou p
 
 B. Sujeito à sua conformidade com os Termos e quaisquer leis e regulamentos aplicáveis, a Empresa concede a você uma licença condicional, limitada, revogável, não exclusiva, intransferível e não publicável para armazenar, instalar, usar e desinstalar o Aplicativo em quaisquer dispositivos de computação (incluindo, mas sem estar limitada a computadores desktop e portáteis, tablets ou pads, smartphones, TVs com Internet e dispositivos wearable) que você possui ou controla, exclusivamente para seu uso pessoal e não comercial. Salvo disposição em contrário, os Termos regem todo e qualquer conteúdo, material e serviços acessíveis ou adquiridos dentro do Aplicativo, bem como atualizações e patches fornecidos pela Empresa.
 
-C. Exceto conforme expressamente previsto nos Termos, você não deverá alugar, vender, transferir, redistribuir ou sublicenciar o Aplicativo. Se você vender seu dispositivo de computação a terceiros, você deve remover o Aplicativo de tal dispositivo, ou pelo menos fazer logout e apagar todos os registros relacionados ao seu uso (e sua conta de usuário conosco, se houver) do Aplicativo.
+C. Exceto conforme expressamente previsto nos Termos, você não deverá alugar, vender, transferir, redistribuir ou sublicenciar o Website. Se você vender seu dispositivo de computação a terceiros, você deve remover o Website de tal dispositivo, ou pelo menos fazer logout e apagar todos os registros relacionados ao seu uso (e sua conta de usuário conosco, se houver) do Website.
 
-D. Você não deve utilizar erros, bugs ou defeitos do Aplicativo, e não deve desenvolver, distribuir, disseminar ou usar qualquer programa, software ou scripts que possam prejudicar a nós ou ao Aplicativo.
+D. Você não deve utilizar erros, bugs ou defeitos do Website, e não deve desenvolver, distribuir, disseminar ou usar qualquer programa, software ou scripts que possam prejudicar a nós ou ao Aplicativo.
 
 3. Uso de Dados
 
@@ -76,13 +76,10 @@ F. Por motivos de segurança, cumprimento, operacionais ou outros, e por uma cau
 IV. USO LÍCITO E ADEQUADO DOS SERVIÇOS
 Como condição e requisito para ter acesso e usar os Serviços, você é obrigado a observar sempre certas regras durante seu acesso e uso dos Serviços.
 
-Como nós fornecemos apenas uma ferramenta, uma plataforma ou um lugar para nossos usuários gerarem, exibirem e compartilharem seu conteúdo (Conteúdo Gerado pelos Usuários) e/ou se comunicarem entre eles, são os próprios usuários (inclusive você) que compõem esta comunidade. Cada usuário será responsável por suas próprias ações, comportamentos e condutas ao receber e participar dos Serviços. Nós não monitoramos ativamente e não somos responsáveis por qualquer atividade ou conteúdo que seja feito ou fornecido pelos usuários; entretanto, esperamos que os usuários conduzam suas ações e comportamentos de forma amigável e legítima.
+Como nós fornecemos apenas uma ferramenta, uma plataforma ou um lugar para nossos usuários fazerem o downloud de video. Cada usuário será responsável por suas próprias ações, comportamentos e condutas ao receber e participar dos Serviços. Nós não monitoramos ativamente e não somos responsáveis por qualquer atividade ou conteúdo que seja feito ou fornecido pelos usuários; entretanto, esperamos que os usuários conduzam suas ações e comportamentos de forma amigável e legítima.
 
 1. Encorajamos você a:
 i) utilizar os Serviços com seus amigos; contar a eles sobre o Site e o Aplicativo se eles ainda não os conhecem;
-ii) comunicar-se de forma amigável com os demais usuários dos Serviços;
-iii) criar vínculos com outros usuários e se divertir mais;
-iv) fazer comentários e feedbacks mais positivos.
 
 2. Consequências do mau uso dos serviços
 
@@ -120,28 +117,14 @@ Regras Específicas para Obras Musicais e para Intérpretes. Se você é composi
 
 Licença Transferível ao Usuário Final. Todos os direitos que você concede em seu Conteúdo Gerado pelos Usuários nestes Termos são fornecidos como “transferíveis ao usuário final”, o que significa que os proprietários ou operadores de serviços de terceiros não terão qualquer responsabilidade independente para com você ou qualquer outro terceiro pelo Conteúdo Gerado pelos Usuários postado ou usado em tal serviço de terceiros através dos Serviços.
 
-Renúncia de Direitos ao Conteúdo dos Usuários. Ao postar Conteúdo Gerado pelos Usuários nos ou através dos Serviços, você renuncia a qualquer direito de inspeção ou aprovação prévia de qualquer material de marketing ou promocional relacionado a tal Conteúdo. Você também renuncia a todo e qualquer direito de privacidade, publicidade ou quaisquer outros direitos de natureza similar em relação ao seu Conteúdo Gerado pelos Usuários, ou qualquer parte dele. Na medida em que quaisquer direitos morais não sejam transferíveis ou cedíveis, você neste ato renuncia e concorda em nunca fazer valer qualquer e todos os direitos morais, ou apoiar, manter ou permitir qualquer ação judicial baseada em quaisquer direitos morais que você possa ter em ou com respeito a qualquer Conteúdo gerado pelos Usuários que você poste nos Serviços ou através deles.
-
-Nós também temos o direito de revelar sua identidade a qualquer terceiro que esteja alegando que qualquer Conteúdo gerado pelos Usuários postado ou carregado por você nos nossos Serviços constitui uma violação de seus direitos de propriedade intelectual, ou de seu direito à privacidade.
-
-Nós, ou terceiros autorizados, reservamo-nos o direito de cortar, recortar, editar ou recusar publicar, seu conteúdo, a nosso critério ou a critério exclusivo deles. Nós temos o direito –mas não a obrigação– de remover, desautorizar, bloquear ou apagar, a nosso critério exclusivo, qualquer publicação que você fizer em nossos Serviços (i) que considerarmos violar estes Termos, ou (ii) em resposta a reclamações de outros usuários ou terceiros, com ou sem aviso prévio e sem qualquer responsabilidade para com você. Como resultado, recomendamos que você salve cópias de qualquer Conteúdo gerado pelos Usuários que você postar nos Serviços em seu(s) dispositivo(s) pessoal(is), caso queira garantir seu acesso permanente a cópias de tal Conteúdo. Nós não garantimos a precisão, integridade, adequação ou qualidade de qualquer Conteúdo Gerado pelos Usuários, e sob nenhuma circunstância seremos responsáveis de nenhuma forma por qualquer Conteúdo Gerado pelos Usuários.
-
-Tomamos medidas razoáveis para remover rapidamente de nossos serviços qualquer material infrator de que tenhamos conhecimento.
-
 2. Reclamações de Direitos Autorais
-A. Notificação. Se você acredita que seu trabalho foi copiado de uma forma que constitua violação de direitos autorais, você deve nos notificar sobre sua reivindicação de violação de acordo com o procedimento estabelecido abaixo. A Empresa verificará e investigará os avisos de suposta infração e tomará as medidas apropriadas sob as leis de propriedade intelectual aplicáveis com respeito a qualquer infração alegada ou real. A notificação da alegada violação de direitos autorais deve ser enviada por e-mail ao nosso endereço de e-mail de reclamação de direitos autorais: hello@snaptubeapp.com. Para ser eficaz, a notificação deverá ser feita por escrito e conter as seguintes informações:
+A. Notificação. Se você acredita que seu trabalho foi copiado de uma forma que constitua violação de direitos autorais, você deve nos notificar sobre sua reivindicação de violação de acordo com o procedimento estabelecido abaixo. A Empresa verificará e investigará os avisos de suposta infração e tomará as medidas apropriadas sob as leis de propriedade intelectual aplicáveis com respeito a qualquer infração alegada ou real. A notificação da alegada violação de direitos autorais deve ser enviada por e-mail ao nosso endereço de e-mail de reclamação de direitos autorais: suporte@ChatBot.com. Para ser eficaz, a notificação deverá ser feita por escrito e conter as seguintes informações:
 i) assinatura eletrônica ou física da pessoa autorizada a agir em nome do proprietário dos direitos autorais;
 ii) uma descrição do trabalho protegido por direitos autorais que você alega ter sido infringido;
 iii) uma descrição de onde o material que você alega estar infringindo está localizado nos Serviços, com detalhes suficientes para que possamos encontrá-lo de forma eficiente;
 iv) seu endereço, telefone e e-mail;
 v) uma declaração sua de que você acredita de boa fé que o uso contestado não é autorizado pelo proprietário dos direitos autorais ou da propriedade intelectual, seu agente, ou pela lei;
 vi) uma declaração sua, feita sob pena de perjúrio, de que as informações na sua notificação são verídicas e que você é o proprietário dos direitos autorais ou está autorizado a agir em nome do proprietário dos direitos autorais.
-
-B. Contranotificação: Se você acredita que seu Conteúdo gerado pelos usuários que foi removido (ou cujo acesso foi desativado) não está infringindo, ou que você tem a autorização do proprietário dos direitos autorais, do agente do proprietário dos direitos autorais ou dos termos da lei para carregar e usar o conteúdo em seu Conteúdo gerado pelos usuários, você pode enviar uma contranotificação por escrito contendo as seguintes informações para o nosso endereço de e-mail de reclamação de direitos autorais:
-i) sua assinatura física ou eletrônica;
-ii) identificação do conteúdo que foi removido ou para o qual o acesso foi desabilitado e do lugar onde estava o conteúdo antes de ser removido ou desabilitado;
-iii) uma declaração de que você acredita de boa fé que o conteúdo foi removido ou desabilitado como resultado de erro ou identificação incorreta do conteúdo;
-iv) seu nome, endereço, telefone e e-mail, uma declaração de que você concorda com a jurisdição das leis de Hong Kong, Região Administrativa Especial da China (“Hong Kong”), e uma declaração de que você aceitará a citação da pessoa que forneceu a notificação da suposta infração.
 
 VI. EXCLUSÃO DE GARANTIAS
 NADA NESTES TERMOS AFETARÁ QUAISQUER DIREITOS ESTATUTÁRIOS QUE VOCÊ NÃO POSSA CONTRATUALMENTE CONCORDAR EM ALTERAR OU RENUNCIAR E AOS QUE, LEGALMENTE, SEMPRE TENHA DIREITO COMO CONSUMIDOR. OS SERVIÇOS SÃO PRESTADOS “COMO ESTÃO” E NÓS NÃO FORNECEMOS NENHUMA GARANTIA OU DECLARAÇÃO A VOCÊ COM RESPEITO A ELES. PARTICULARMENTE, NÃO DECLARAMOS NEM GARANTIMOS A VOCÊ QUE SEU USO DOS SERVIÇOS IRÁ ATENDER ÀS SUAS NECESSIDADES; QUE SEU USO DOS SERVIÇOS SERÁ ININTERRUPTO, OPORTUNO, SEGURO OU LIVRE DE ERROS; QUE QUALQUER INFORMAÇÃO OBTIDA POR VOCÊ COMO RESULTADO DE SEU USO DOS SERVIÇOS SERÁ PRECISA OU CONFIÁVEL; E QUE OS DEFEITOS NA OPERAÇÃO OU FUNCIONALIDADE DE QUALQUER SOFTWARE FORNECIDO A VOCÊ COMO PARTE DOS SERVIÇOS SERÃO CORRIGIDOS.
@@ -194,8 +177,6 @@ Você é o único responsável por suas interações com outros usuários dos Se
 
 X. DIVERSOS
 Contrato integral. Estes Termos constituem todo o acordo legal entre você e a Empresa e regem a sua utilização dos Serviços e substituem completamente quaisquer acordos prévios entre você e a Empresa em relação aos Serviços.
-
-Links. Você pode criar um link para nossa página inicial, desde que o faça de forma justa e legal e que não prejudique nossa reputação nem tire proveito disso. Você não deve estabelecer um link de forma que sugira qualquer forma de associação, aprovação ou endosso de nossa parte onde não exista nenhum. Você não deve estabelecer um link para nossos serviços em qualquer website que não seja de sua propriedade. O website no qual você colocar o link deve cumprir em todos os aspectos com os padrões de conteúdo estabelecidos nos Termos. Nós nos reservamos o direito de retirar a permissão do link sem aviso prévio.
 
 Sem Renúncia. Nossa inação ou não aplicação de qualquer disposição destes Termos não deve ser interpretada como uma renúncia a qualquer disposição ou direito.
 
