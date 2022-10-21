@@ -96,6 +96,9 @@ iii) sua violação de qualquer direito de terceiros, incluindo, sem limitação
 iv) qualquer conteúdo ou informação de sua conta ou qualquer outra informação que você poste ou compartilhe nos ou através dos Serviços.
 
 V. DIREITOS DE PROPRIEDADE INTELECTUAL
+
+Parabéns Prof. Tayse, você chegou ate aqui ✨
+
 1. Propriedade
 A. Materiais da Plataforma. Todos os direitos, título e interesses de e sobre todos os materiais que fazem parte dos Serviços (incluindo, mas não limitado a, designs, textos, gráficos, imagens, vídeos, informações, aplicativos, software, música, som e outros arquivos, e sua seleção e arranjo), com exceção do Conteúdo Gerado pelos Usuários (coletivamente, os “Materiais da Plataforma”), são, entre a Empresa e você, de propriedade da Empresa e/ou de seus terceiros licenciadores. O uso dos Materiais da Plataforma para qualquer finalidade não expressamente permitida por estes Termos é estritamente proibido. Você reconhece e concorda que não adquirirá nenhum tipo de direito de propriedade baixando e/ou utilizando os Materiais da Plataforma. Você concorda que não deve modificar, copiar, distribuir, emoldurar, reproduzir, republicar, baixar, coletar, exibir, postar, transmitir ou vender de qualquer forma ou por qualquer meio, no todo ou em parte, ou explorar de qualquer outra forma os Materiais da Plataforma sem a nossa autorização expressa prévia e por escrito. Você reconhece que não adquire nenhum direito de propriedade ao utilizar os Serviços ou ao acessar quaisquer Materiais da Plataforma postados nos Serviços pela Empresa, ou quaisquer obras derivadas dos mesmos. Todos os direitos não expressamente concedidos por estes Termos são reservados pela Empresa e seus licenciadores, e nenhuma licença é concedida por preclusão, implicação ou de qualquer outra forma.
 
